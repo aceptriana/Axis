@@ -18,12 +18,12 @@
 
 **Install**
 
--pkg install python -y
--pkg install python2 -y
--pkg install git -y
--pkg install openssh -y
--pip install mechanize -y
--pip install requests -y
+-pkg install python
+-pkg install python2
+-pkg install git
+-pkg install openssh
+-pip install mechanize
+-pip install request
 -git clone https://github.com/aceptriana/Axis
 -cd Axis
 -python2 main.py
