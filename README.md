@@ -1,4 +1,4 @@
-# Axis
+# Axis Opok
 
 **Setting Psipon**
 
@@ -18,21 +18,21 @@
 
 # Install
 
--pkg install python
+pkg install python
 
--pkg install python2
+pkg install python2
 
--pkg install git
+pkg install git
 
--pkg install openssh
+pkg install openssh
 
--pip install mechanize
+pip install mechanize
 
--pip install request
+pip install request
 
--git clone https://github.com/aceptriana/Axis
+git clone https://github.com/aceptriana/Axis
 
--cd Axis
+cd Axis
 
--python2 main.py
+python2 main.py
 
